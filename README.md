@@ -57,3 +57,11 @@ dans l'écran Paramètres, globalement ou site par site.
 ```
 node test/calc.test.js
 ```
+
+---
+
+## Autre outil du dépôt : causeries sécurité à distance
+
+Le dossier [`causeries/`](causeries/README.md) contient une application web
+autonome pour animer les causeries sécurité et recueillir l'émargement des
+agents par signature électronique sur leur téléphone.
